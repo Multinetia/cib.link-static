@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Meta Data -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Coders In Black</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="css/styles.min.css"/>
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+        <!-- Preloader -->
+        <div id="preloader">
+            <div class="preloader-container">
+                <div class="sigle"></div>
+                <span>Loading</span>
+            </div>
+        </div>
+
+        <!-- Background slider -->
+        <div id="bg-slideshow" data-stellar-ratio="0.1">
+            <div class="overlay" data-stellar-ratio="1.1"></div>
+        </div>
+    
+        <!-- Header -->
+        <header id="header" class="opNav">
+            <h1>&lt;CIB&gt; Coders In Black<span class="glow"></span></h1>
+            <nav class="navbar navbar-default navbar-static-top" role="navigation">
+                <div class="container">
+
+                    <!-- Menu mobile -->
+                    <div class="navbar-header">
+                        <a class="logo" rel="home" href="#header" title="&lt;CIB&gt; Coders In Black">&lt;CIB&gt; Coders In Black</a>
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    
+                    <!-- Menu desktop -->
+                    <div class="collapse navbar-collapse" id="main-nav">
+                        <a class="logo" rel="home" href="#header" title="&lt;CIB&gt; Coders In Black">&lt;CIB&gt; Coders In Black</a>
+                        <ul class="nav navbar-nav">
+                            <li><a href="#who-we-are">Who we are</a></li>
+                            <li><a href="#how-it-works">How it works</a></li>
+                            <li><a href="#definitions">Definitions</a></li>                            
+                            <li><a href="#team">Coders in Black</a></li>
+                            <li><a href="#contact-us">Contact us</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </nav>
+        </header>
+
+        <!-- Intro -->
+        <section id="home" class="opNav">
+            <p class="wow fadeIn"><span>Build your <strong>disrupting</strong> product by short iterations</span></p>
+            <p class="wow fadeIn"><span>With <strong>passionate</strong> people</span></p>
+            <p class="wow fadeIn"><span>In <strong>amazing</strong> places</span></p>
+            <div class="overlay"></div>
+        </section>
+
+        <div class="site-wrapperTransp" data-stellar-vertical-offset="-10000" data-stellar-ratio="0.9">
+
+            <!-- Who we are -->
+            <!--<section id="who-we-are" class="opNav" data-stellar-vertical-offset="-900" data-stellar-ratio="1.15">-->
+            <section id="who-we-are" class="opNav">
+                <div class="angle-top">
+                    <div class="angle-left"></div>
+                    <div class="angle-right"></div>
+                </div>
+                <div class="wrapper">
+                    <div class="container">
+                        <h2 class="wow pulse">Who <strong>we are</strong></h2>
+                        <article class="row">
+                            <p class="col-md-4 wow slideInLeft">
+                                <span class="picto white techno"></span>
+                                We are <strong>builders of products, games, services, media solutions, infrastructures</strong> using most modern and efficient technology.
+                            </p>
+                            <p class="col-md-4 wow fadeInUpBig">
+                                <span class="picto white startup"></span>
+                                We are <strong>developers, hackers, entrepreneurs, hardworkers, architects</strong> of many systems for start-ups.
+                            </p>
+                            <p class="col-md-4 wow slideInRight">
+                                <span class="picto white lab"></span>
+                                Early Adopters <strong>working ahead of phase on next disrupting product launch</strong> for major Media and Telecommunications companies.
+                            </p>
+                        </article>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+        <div class="site-wrapperBgColor">
+        
+            <!-- How it works -->
+            <!--<section id="how-it-works" class="opNav" data-stellar-vertical-offset="1600" data-stellar-ratio="1.3">-->
+            <section id="how-it-works" class="opNav" data-stellar-vertical-offset="-1600" data-stellar-ratio="1.1">
+                <div class="angle-top">
+                    <div class="angle-left"></div>
+                    <div class="angle-right"></div>
+                </div>
+                <div class="wrapper">
+                    <div class="container">
+                        <h2 class="wow flipInY">How it <strong>works</strong></h2>
+                        <article class="row">
+                            <p class="col-md-4 wow fadeInUp">
+                                <span class="num">1</span><br>
+                                Tell us about your project, we select project with <strong>the most disruptive potentials</strong>.
+                            </p>
+                            <p class="col-md-4 wow fadeInUp">
+                                <span class="num">2</span><br>
+                                We organize a commando mission with our A-team that <strong>will bring you're project to life</strong>.
+                            </p>
+                            <p class="col-md-4 wow fadeInUp">
+                                <span class="num">3</span><br>
+                                <strong>If you are happy</strong> with what we have done, you pay, if not it will be open source.
+                            </p>
+                        </article>
+                    </div>
+                </div>
+            </section>
+        
+            <!-- Definitions -->
+            <section id="definitions" class="opNav" data-stellar-vertical-offset="3500" data-stellar-ratio="1.3">
+                <div class="angle-top">
+                    <div class="angle-left"></div>
+                    <div class="angle-right"></div>
+                </div>
+                <div class="wrapper">
+                    <div class="container">
+                        <h2 class="wow fadeIn"><strong>Definitions</strong></h2>
+                        <article id="run" class="row">
+                            <h3 class="wow bounceIn">Run</h3>
+                            <p><strong>A 3 days commando mission</strong> (5 days from arrival day to departure day) development iteration of your product with an expert team, that live and work all the day long with your own team in a amazing dedicated place.</p>
+                            <p>Each run is a delivery iteration, to get feedback.</p>
+                        </article>
+                        <article id="packages" class="row">
+                            <h3 class="wow bounceIn">Packages</h3>
+                            <div class="col-md-3">
+                                <div class="pack-radial-bar">
+                                    <div data="1"></div>
+                                    <div data="5"></div>
+                                </div>
+                                <h4>Prototype</h4>
+                                <p>1 to 5 x Runs, to find investors, associates, show the potential of your product.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="pack-radial-bar">
+                                    <div data="4"></div>
+                                    <div data="8"></div>
+                                </div>
+                                <h4>Minimum Viable Product</h4>
+                                <p>4 to 8 x Runs, to create a product that do the job to get feedbacks.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="pack-radial-bar">
+                                    <div data="7"></div>
+                                    <div data="12"></div>
+                                </div>
+                                <h4>Market Product</h4>
+                                <p>Go to market, get customers, get metrics on your business to be always in the competition.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="pack-radial-bar">
+                                    <div data="11"></div>
+                                    <div data="30"></div>
+                                </div>
+                                <h4>World Wide Information System</h4>
+                                <p>Modernize your whole technological business stack, to be ready for tomorrow fast evolving markets.</p>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </section>
+        
+            <!-- Team -->
+            <section id="team" class="opNav">
+                <div class="angle-top2">
+                    <div class="angle-left"></div>
+                    <div class="angle-left2"></div>
+                    <div class="angle-right"></div>
+                    <div class="angle-right2"></div>
+                </div>
+                <div class="wrapper">
+                    <div class="container">
+                        <h2><strong>Coders</strong> in Black</h2>
+                        <ul class="list">
+                            <li class="wow fadeIn">
+                                <h3>Mr Phil</h3>
+                                <p>Expert in prototyping Native mobile applications.<br/>
+                                Devices : SmartPhone, Tablet, Google Glass
+                                </p>
+                                <ul class="team-radial-bar">
+                                    <li>
+                                        <div data="96"></div>
+                                        iOS
+                                    </li>
+                                    <li>
+                                        <div data="83"></div>
+                                        Android
+                                    </li>
+                                    <li>
+                                        <div data="87"></div>
+                                        Games
+                                    </li>
+                                </ul>
+                                <h4>Superpower</h4>
+                                <p>Prototyper++</p>
+                            </li>
+                            <li class="wow fadeIn">
+                                <h3>Mr Luca</h3>
+                                <p>Expert in optimizations, Game Design.<br/>
+                                Devices : SmartPhone, Tablet, Google Glass
+                                </p>
+                                <ul class="team-radial-bar">
+                                    <li>
+                                      <div data="92"></div>
+                                      iOS
+                                    </li>
+                                    <li>
+                                      <div data="96"></div>
+                                      Android
+                                    </li>
+                                    <li>
+                                        <div data="97"></div>
+                                        Games
+                                    </li>
+                                </ul>
+                                <h4>Superpower</h4>
+                                <p>Optimizer++</p>
+                            </li>
+                            <li>
+                                <h3>Mr Z</h3>
+                                <p>
+                                Stream and Distribute everything.
+                                Devices : Server, Desktop, Web, Smartphone, Chromecast, Set Top Box
+                                </p>
+                                <ul class="team-radial-bar">
+                                    <li>
+                                        <div data="96"></div>
+                                        Backend
+                                    </li>
+                                    <li>
+                                        <div data="83"></div>
+                                        Smart TV
+                                    </li>
+                                    <li><div data="88"></div>
+                                        Infrastructure
+                                    </li>
+                                </ul>
+                                <h4>Superpower</h4>
+                                <p>Experimenter++</p>
+                            </li>
+                            <li class="wow fadeIn">
+                                <h3>Mr Jay</h3>
+                                <p>Product Creator, Open Source Developer, Amazing HTML5 UI.</p>
+                                <ul class="team-radial-bar">
+                                    <li>
+                                        <div data="94"></div> 
+                                        Web UI
+                                    </li>
+                                    <li>
+                                        <div data="88"></div>
+                                        Web Mobile
+                                    </li>
+                                    <li>
+                                        <div data="89"></div>
+                                        Backend
+                                    </li>
+                                </ul>
+                                <h4>Superpower</h4>
+                                <p>UserXP++</p>
+                            </li>
+                            <li class="wow fadeIn">
+                                <h3>Mr Jey</h3>
+                                <p>Designer</p>
+                                <ul class="team-radial-bar">
+                                    <li><div data="92"></div>
+                                      Illustrator
+                                    </li>
+                                    <li><div data="88"></div>
+                                      Photoshop
+                                    </li>
+                                    <li><div data="84"></div>
+                                      HTML5 / CSS3
+                                    </li>
+                                </ul>
+                                <h4>Superpower</h4>
+                                <p>Impressive++</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="overlay"></div>
+            </section>
+        
+            <!-- Contact us -->
+            <section id="contact-us" class="opNav">
+                <div class="container">
+                    <h2><strong>Contact us</strong></h2>
+                    <ul class="tabs-menu">
+                        <li class="current"><h3><a href="#projectholder">I am a disruptive <strong>project holder</strong></a></h3></li>
+                        <li><h3><a href="#developper">I am a ninja <strong>developper</strong></a></h3></li>
+                    </ul>
+                    <div class="tab">
+                        <form action="" method="post" name="projectholder" id="projectholder" class="tab-content" role="form">
+                            <fieldset>
+                                <legend><span>Who are you</span></legend>
+                                <div class="form-group has-success has-feedback"><input type="text" class="form-control" placeholder="Name"></div>
+                                <div class="form-group has-warning has-feedback"><input type="email" class="form-control" placeholder="Email"></div>
+                            </fieldset>
+                            <fieldset>
+                                <legend><span>Summary <small>(140 chars)</small></span></legend>
+                                <div class="form-group has-error has-feedback"><span class="textarea"><textarea maxlength="140" rows="4" class="form-control"></textarea></span></div>
+                            </fieldset>
+                            <fieldset>
+                                <legend><span>Description <small>(500 chars)</small></span></legend>
+                                <span class="textarea"><textarea maxlength="500" rows="10" class="form-control"></textarea></span>
+                            </fieldset>
+                            <fieldset class="checkboxes">
+                                <legend><span>Positionning</span></legend>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="disruptive" class="custom">Disruptive
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="innovating" class="custom">Innovating
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="cuttingedge" class="custom">Cutting Edge
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="simple" class="custom">Simple 
+                                    <small>(do one job well)</small>
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="mobile" class="custom">Mobile
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="media" class="custom">Media
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="information" class="custom">Information
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="social" class="custom">Social
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="ebusiness" class="custom">e-Business
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="realtime" class="custom">Real-Time
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="semantic" class="custom">Semantic
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="positionning" id="game" class="custom">Game
+                                </label>
+                            </fieldset>
+                            <fieldset class="checkboxes2">
+                                <legend><span>Amazing places</span></legend>
+                                <label>
+                                    <input type="checkbox" name="places" id="mountain" class="custom picto blue mountain">Mountain
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="boat" class="custom picto blue boat">Boat
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="sea" class="custom picto blue sea">Sea
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="camping" class="custom picto blue camping">Camping
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="newhorizon" class="custom picto blue newhorizon"><!--Discover-->New horizon
+                                </label>
+                            </fieldset>
+                            <span class="submit"><input type="submit" value="Submit"></span>
+                        </form>
+
+                        <form action="" method="post" name="developper" id="developper" class="tab-content" role="form">
+                            <fieldset>
+                                <legend><span>Who are you</span></legend>
+                                <input type="text" class="form-control" placeholder="Name">
+                                <input type="email" class="form-control" placeholder="Email">
+                                <div class="colx2 first">
+                                    <input type="text" class="form-control" placeholder="Twitter Account">
+                                </div>
+                                <div class="colx2">
+                                    <input type="text" class="form-control" placeholder="Github Account">
+                                </div>
+                            </fieldset>
+                            <fieldset>
+                                <legend><span>Describe you <small>(300 chars)</small></span></legend>
+                                <span class="textarea"><textarea maxlength="300" rows="7" class="form-control"></textarea></span>
+                            </fieldset>
+                            <fieldset>
+                                <legend><span>Where do you live</span></legend>
+                                <input type="text" class="form-control" placeholder="Address 1">
+                                <input type="text" class="form-control" placeholder="Address 2">
+                                <div class="colx2 first">
+                                    <input type="text" class="form-control" placeholder="City">
+                                    <input type="text" class="form-control" placeholder="Country">
+                                </div>
+                                <div class="colx2">
+                                    <input type="text" class="form-control" placeholder="Zip / Postal code">
+                                    <input type="text" class="form-control" placeholder="State / Province">
+                                </div>
+                            </fieldset>
+                            <fieldset>
+                                <legend><span>Describe / link the project<br>you are the most proud of <small>(140 chars)</small></span></legend>
+                                <span class="textarea"><textarea maxlength="140" rows="4" class="form-control"></textarea></span>
+                            </fieldset>
+                            <fieldset class="checkboxes">
+                                <legend><span>Techno</span></legend>
+                                <label>
+                                    <input type="checkbox" name="places" id="node" class="custom">Node.js
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="coffeescript" class="custom">CoffeeScript
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="angular" class="custom">Angular
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="ionic" class="custom">Ionic
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="famous" class="custom">Famo.us
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="nosql" class="custom">NoSQL
+                                </label>
+                                <label>
+                                    <input type="checkbox" name="places" id="webrtc" class="custom">WebRTC
+                                </label>
+                            </fieldset>
+                            <span class="submit"><input type="submit" value="Submit"></span>
+                        </form>
+                    </div>
+                </div>
+                <div class="wrapper">
+                    <div class="bg"></div>
+                    <div class="bg2"></div>
+                </div>
+            </section>
+        
+            <!-- Footer -->
+            <footer>
+                <div class="container">
+                    <nav role="navigation">
+                        <ul class="nav navbar-nav">
+                            <li><a href="#who-we-are">Who we are</a></li>
+                            <li><a href="#how-it-works">How it works</a></li>
+                            <li><a href="#definitions">Definitions</a></li>                            
+                            <li><a href="#team">Coders in Black</a></li>
+                            <li><a href="#contact-us">Contact us</a></li>
+                        </ul>
+                    </nav>
+                    <h5>Legal mentions / Notice / Address</h5>
+                    <p class="legal">Quare talis improborum consensio non modo excusatione amicitiae tegenda non est sed potius supplicio omni vindicanda est, ut ne quis concessum putet amicum vel bellum patriae inferentem sequi; quod quidem, ut res ire coepit, haud scio an aliquando futurum sit. Mihi autem non minori curae est, qualis res publica post mortem meam futura, quam qualis hodie sit.</p>
+                </div>
+            </footer>
+        </div>
+
+        <script src="js/app.min.js"></script>
+    </body>
+</html>

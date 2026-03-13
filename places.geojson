@@ -1,0 +1,439 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8469339469431105,
+                    45.24926918272298
+                ]
+            },
+            "properties": {
+                "title": "Nice house close to town and ski",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.04607379061017,
+                    43.86921370632508
+                ]
+            },
+            "properties": {
+                "title": "Le LUBERON AU MAS DES OLIVIERS",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.294616160797943,
+                    43.62204909307495
+                ]
+            },
+            "properties": {
+                "title": "18th century village house",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8254108656260195,
+                    45.76964899108083
+                ]
+            },
+            "properties": {
+                "title": "Beautiful loft with wooden ceiling 4 bedrooms",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.52613137669316,
+                    50.445916391711265
+                ]
+            },
+            "properties": {
+                "title": "VIP 3brm 2-level Kreschatik Passage",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3456509,
+                    48.8695949
+                ]
+            },
+            "properties": {
+                "title": "1 Bedroom Paris 2",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.06575119980243463,
+                    51.523831478247146
+                ]
+            },
+            "properties": {
+                "title": "Wonderful 4bed 2bath in Brick Lane",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6833622127455286,
+                    45.92251432651869
+                ]
+            },
+            "properties": {
+                "title": "Chalet de Charme",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.752767695526009,
+                    45.225276362645545
+                ]
+            },
+            "properties": {
+                "title": "2 étages dans tour du XIIIe ",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.602077200064407,
+                    43.2986008298895
+                ]
+            },
+            "properties": {
+                "title": "Spectacular view on the sea",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.058374069083245,
+                    43.71999637022993
+                ]
+            },
+            "properties": {
+                "title": "Contemporary villa panoramic view",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.016728330446065,
+                    43.55228443316099
+                ]
+            },
+            "properties": {
+                "title": "Marina sea front. 250m2 luxury!",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.432096284533319,
+                    48.855775347744846
+                ]
+            },
+            "properties": {
+                "title": "LOFT MONTREUIL ARTY(PARIS'BROOKLYN)",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.435249,
+                    48.857221
+                ]
+            },
+            "properties": {
+                "title": "Loft montreuil",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.934373157962934,
+                    43.52127893978966
+                ]
+            },
+            "properties": {
+                "title": "Athypique House 300m ² Sea View ",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.090158158027746,
+                    43.71574645445132
+                ]
+            },
+            "properties": {
+                "title": "Côte dAzur Manoir Gaudissard 9 pers",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.372411203927896,
+                    43.293002686750704
+                ]
+            },
+            "properties": {
+                "title": "APPARTEMENT SUR LE VIEUX PORT",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3718113176253017,
+                    48.86488958426049
+                ]
+            },
+            "properties": {
+                "title": "LOFT USINE 180m2 + SPA+ GARAGE",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.37181,
+                    48.8648895
+                ]
+            },
+            "properties": {
+                "title": "Squat in Paris 11",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.852659698025345,
+                    43.89443945108184
+                ]
+            },
+            "properties": {
+                "title": "Mas Provençal, piscine 12 pers 6 ch",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98727989075277,
+                    40.74757857739398
+                ]
+            },
+            "properties": {
+                "title": "Hot deal!! 3-bedroom apartment",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.812269697155909,
+                    45.771900018808125
+                ]
+            },
+            "properties": {
+                "title": "Loft architecte centre ville 224m2",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.793296607250613,
+                    45.790597294879525
+                ]
+            },
+            "properties": {
+                "title": "Maison à Lyon idéale pour famille",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369991969175253,
+                    43.29180749785513
+                ]
+            },
+            "properties": {
+                "title": "Trop belle la Vue! Unique à Marseil",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.808651113043506,
+                    44.91504650876851
+                ]
+            },
+            "properties": {
+                "title": "Villa with private pool & jacuzzi",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.980210017705098,
+                    43.54907423656765
+                ]
+            },
+            "properties": {
+                "title": "Duplex Cannes panoramic sea view",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.13504113490691,
+                    42.34159019673319
+                ]
+            },
+            "properties": {
+                "title": "Gorgeous Brookline/Boston home (#1)",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.826524689117403,
+                    45.77061914517749
+                ]
+            },
+            "properties": {
+                "title": "Appartement Lyon Centre",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2357277,
+                    48.868477
+                ]
+            },
+            "properties": {
+                "title": "Péniche Paris",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.462274,
+                    48.731825
+                ]
+            },
+            "properties": {
+                "title": "Appt. in Lannion",
+                "marker-symbol": "rocket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49191,
+                    35.919599
+                ]
+            },
+            "properties": {
+                "title": "Appartment in Malta",
+                "marker-symbol": "rocket"
+            }
+        }
+    ]
+}
